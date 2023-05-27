@@ -1,6 +1,6 @@
 # osTicket-Installation-and-Configuration
 
-<h2> Environments and Applications used </h2>
+<h3> Environments and Applications used </h3>
 
 
   - Windows 10
