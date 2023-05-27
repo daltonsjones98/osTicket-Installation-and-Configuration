@@ -1,6 +1,8 @@
 # osTicket-Installation-and-Configuration
 
-Environments and Applications used
+<h2> Environments and Applications used </h2>
+
+
   - Windows 10
   - Azure virtual machine
   - Remote Desktop
