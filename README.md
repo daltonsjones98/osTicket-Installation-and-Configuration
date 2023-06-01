@@ -3,10 +3,10 @@
 <h3> Environments and Applications used </h3>
 
 
-  - Windows 10
-  - Azure virtual machine
-  - Remote Desktop
-  - Internet Information Services
+  - _Windows 10_
+  - _Azure virtual machine_
+  - _Remote Desktop_
+  - _Internet Information Services_
 
 
 
@@ -32,15 +32,15 @@
 10. Install osTicket
 
 
-      - Enabled Extentions in IIS to osTicket install requirements.
-      - Renamed ost'config.php file
-      - Assigned Permissions 
-      - Continued to setup osTicket in browser
-      - Stop and restarted the server to save the changes._
+      - _Enabled Extentions in IIS to osTicket install requirements_.
+      - _Renamed ost'config.php file_
+      - _Assigned Permissions_ 
+      - Continued to setup osTicket in browser_
+      - Stop and restarted the server to save the changes
 
 11. Installed HeidiSQL
 
 
-      - Created new session
-      - Created a new data base and configured in browser
+      - _Created new session_
+      - _Created a new data base and configured in browser_
 
