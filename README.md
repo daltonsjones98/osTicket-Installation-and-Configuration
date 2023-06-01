@@ -5,7 +5,7 @@
 
   - _Windows 10_
   - _Azure virtual machine_
-  - _Remote Desktop_
+  - _Microsoft Remote Desktop_
   - _Internet Information Services_
 
 
