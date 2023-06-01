@@ -44,3 +44,7 @@
       - _Created new session_
       - _Created a new data base and configured in browser_
 
+
+ &ensp;  &ensp;
+
+                       ----Images with these steps are listed in the link below ----- :
